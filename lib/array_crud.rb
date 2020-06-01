@@ -33,7 +33,7 @@ end
 
 def retrieve_first_element_from_array(array)
   disney = ["wow", "Bolt", "Cinderella"]
-  disney.
+  disney.first
 end
 
 def retrieve_last_element_from_array(array)
