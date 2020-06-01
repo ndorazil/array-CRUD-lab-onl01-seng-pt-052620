@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   soda_pop = ["Root Beer", "Dr. Pepper", "Mountain Dew"]
-  soda_pop.pop(1)
+  soda_pop.pop
 end
 
 def remove_element_from_start_of_array(array)
