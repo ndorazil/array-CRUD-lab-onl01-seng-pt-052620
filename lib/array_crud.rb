@@ -12,7 +12,8 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  cool_words = ["nifty", "neato"]
+  cool_words.unshift("cool beans")
 end
 
 def remove_element_from_end_of_array(array)
